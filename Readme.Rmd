@@ -1,0 +1,2 @@
+# About this course
+This is my introduction to R. Read more @ https://vuoan.github.io/IODS-project/
